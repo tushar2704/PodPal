@@ -15,3 +15,5 @@ pyowm
 tools
 textwrap3
 langchain_community
+pydub
+langchain_pinecone
